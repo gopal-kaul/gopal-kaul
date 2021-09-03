@@ -8,4 +8,4 @@ Here are some ideas to get you started:
 - 👋 My name is Gopal Kaul
 - 🔭 I’m currently using Arch Linux as my daily Driver
 - 🌱 I’m currently learning the MERN Stack, React/React Native, Django, Flutter
-- 📫 How to reach me: [My Discord](https://discord.com/users/545099023976235029) [My LinkedIn](https://www.linkedin.com/in/gopal-kaul/)
+- 📫 How to reach me: [My Discord](https://discord.com/users/545099023976235029) | [My LinkedIn](https://www.linkedin.com/in/gopal-kaul/)
