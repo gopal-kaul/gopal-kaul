@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopal-kaul&show_icons=true&count_private=true)](https://github.com/gopal-kaul?tab=repositories)
+[![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopal-kaul&show_icons=true&count_private=true&theme=dark)](https://github.com/gopal-kaul?tab=repositories)
 
 - 👋 My name is Gopal Kaul
 - 🔭 I’m currently using Arch Linux as my daily Driver
