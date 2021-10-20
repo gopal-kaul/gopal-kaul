@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-<!--
-**gopal-kaul/gopal-kaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Gopal's GitHub stats](https://github-readme-stats.vercel.app/api?username=gopal-kaul)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
--->
 - 👋 My name is Gopal Kaul
 - 🔭 I’m currently using Arch Linux as my daily Driver
 - 🌱 I’m currently learning the MERN Stack, React/React Native, Django, Flutter
