@@ -1,9 +1,9 @@
 ### Hi there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=gopal-kaul&color=295496">
 
 - 👋 My name is Gopal Kaul (also known as BL4Z3)
-- 👨‍💻 I'm a Full Stack Web Developer, I primarily use ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) with ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+- 👨‍💻 I'm a Full Stack Web Developer, I primarily use Next JS with TailwindCSS as my go-to Tech Stack
 - 🔭 I’m currently using PikaOS as my daily driver
-- 🌱 I’m currently learning Svelte, React Native, Flutter, and diving deep into Linux
+- 🌱 I’m currently learning Svelte, Rust, React Native, Flutter, and diving deeper into Linux
 - 📫 How to reach me: [My Discord](https://discord.com/users/545099023976235029) | [My LinkedIn](https://www.linkedin.com/in/gopal-kaul/) | [My Email](mailto://gopalkaul5@gmail.com)
 
 ### 🛠 &nbsp;Tech Stack
