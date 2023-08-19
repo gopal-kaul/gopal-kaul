@@ -2,7 +2,7 @@
 
 - 👋 My name is Gopal Kaul (also known as BL4Z3)
 - 👨‍💻 I'm a Full Stack Web Developer, I primarily use Next JS with TailwindCSS as my go-to Tech Stack
-- 🔭 I’m currently using PikaOS as my daily driver
+- 🔭 I’m currently using Arch Linux as my daily driver
 - 🌱 I’m currently learning Svelte, Rust, React Native, Flutter, and diving deeper into Linux
 - 📫 How to reach me: [My Discord](https://discord.com/users/545099023976235029) | [My LinkedIn](https://www.linkedin.com/in/gopal-kaul/) | [My Email](mailto://gopalkaul5@gmail.com)
 
